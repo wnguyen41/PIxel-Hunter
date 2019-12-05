@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=x\ y\ handler
+comment0.target=Target(int,\ int,\ Handler)
+comment1.params=velocity\ angle
+comment1.target=void\ calcVel(double,\ double)
+comment2.params=
+comment2.target=boolean\ ifMoving()
+comment3.params=moving
+comment3.target=void\ setMoving(boolean)
+comment4.params=
+comment4.target=java.awt.Rectangle\ getBounds()
+comment5.params=
+comment5.target=double\ randomizeAngle()
+comment6.params=g
+comment6.target=void\ render(java.awt.Graphics)
+comment7.params=
+comment7.target=double\ getGravity()
+comment8.params=gravity
+comment8.target=void\ setGravity(double)
+comment9.params=
+comment9.target=void\ tick()
+numComments=10

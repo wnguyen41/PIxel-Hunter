@@ -1,0 +1,3 @@
+Create abstract GameObject (constructors,tick,render,getters,setters)
+Create Handler
+Create enum ID to identify targets

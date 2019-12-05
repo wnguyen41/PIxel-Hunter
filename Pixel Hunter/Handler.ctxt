@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ tick()
+comment1.params=collision
+comment1.target=void\ addCollision(Collision)
+comment2.params=collision
+comment2.target=void\ removeCollision(Collision)
+comment3.params=target
+comment3.target=void\ addTarget(Target)
+comment4.params=target
+comment4.target=void\ removeTarget(Target)
+comment5.params=bullet
+comment5.target=void\ addBullet(Bullet)
+comment6.params=bullet
+comment6.target=void\ removeBullet(Bullet)
+comment7.params=object
+comment7.target=void\ addObject(GameObject)
+comment8.params=object
+comment8.target=void\ removeObject(GameObject)
+comment9.params=g
+comment9.target=void\ render(java.awt.Graphics)
+numComments=10

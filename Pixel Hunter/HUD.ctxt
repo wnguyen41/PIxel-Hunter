@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ tick()
+comment1.params=handler
+comment1.target=void\ ammoCount(Handler)
+comment2.params=x
+comment2.target=void\ addPoints(int)
+comment3.params=
+comment3.target=void\ Miss()
+comment4.params=
+comment4.target=void\ Launch()
+comment5.params=r
+comment5.target=void\ setReloading(boolean)
+comment6.params=
+comment6.target=boolean\ isReloading()
+comment7.params=h
+comment7.target=void\ setHit(boolean)
+comment8.params=g
+comment8.target=void\ render(java.awt.Graphics)
+numComments=9

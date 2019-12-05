@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=b\ t
+comment0.target=Collision(Bullet,\ java.util.LinkedList)
+comment1.params=
+comment1.target=void\ checkCollision()
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=g
+comment3.target=void\ render(java.awt.Graphics)
+numComments=4

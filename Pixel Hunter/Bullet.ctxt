@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x\ y\ vel\ handler
+comment0.target=Bullet(int,\ int,\ double,\ Handler)
+comment1.params=mX\ mY
+comment1.target=void\ Shoot(int,\ int)
+comment10.params=
+comment10.target=double\ getVel()
+comment11.params=vel
+comment11.target=void\ setVel(double)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=g
+comment4.target=void\ render(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ reload()
+comment6.params=
+comment6.target=boolean\ ifShot()
+comment7.params=c
+comment7.target=void\ setCollision(boolean)
+comment8.params=
+comment8.target=boolean\ getCollision()
+comment9.params=
+comment9.target=java.awt.Rectangle\ getBounds()
+numComments=12

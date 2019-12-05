@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Player(int,\ int)
+comment1.params=g
+comment1.target=void\ render(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ tick()
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=
+comment5.target=java.awt.Rectangle\ getBounds()
+numComments=6
